@@ -185,8 +185,8 @@
 	};
 
 
-  /* Smooth Scrolling
-	* ------------------------------------------------------ */
+	/* Smooth Scrolling
+	  * ------------------------------------------------------ */
 	var ssSmoothScroll = function () {
 
 		$('.smoothscroll').on('click', function (e) {
@@ -212,8 +212,8 @@
 	};
 
 
-  /* Placeholder Plugin Settings
-	* ------------------------------------------------------ */
+	/* Placeholder Plugin Settings
+	  * ------------------------------------------------------ */
 	var ssPlaceholder = function () {
 		$('input, textarea, select').placeholder();
 	};
@@ -230,8 +230,8 @@
 	};
 
 
-  /* Animations
-	* ------------------------------------------------------- */
+	/* Animations
+	  * ------------------------------------------------------- */
 	var ssAnimations = function () {
 
 		if (!$("html").hasClass('no-cssanimations')) {
@@ -271,8 +271,8 @@
 	};
 
 
-  /* Intro Animation
-	* ------------------------------------------------------- */
+	/* Intro Animation
+	  * ------------------------------------------------------- */
 	var ssIntroAnimation = function () {
 
 		$WIN.on('load', function () {
@@ -298,8 +298,8 @@
 	};
 
 
-  /* Contact Form
-   * ------------------------------------------------------ */
+	/* Contact Form
+	 * ------------------------------------------------------ */
 	var ssContactForm = function () {
 
 		/* local validation */
@@ -344,8 +344,8 @@
 	};
 
 
-  /* AjaxChimp
-	* ------------------------------------------------------ */
+	/* AjaxChimp
+	  * ------------------------------------------------------ */
 	var ssAjaxChimp = function () {
 
 		$('#mc-form').ajaxChimp({
@@ -377,8 +377,8 @@
 	};
 
 
-  /* Back to Top
-	* ------------------------------------------------------ */
+	/* Back to Top
+	  * ------------------------------------------------------ */
 	var ssBackToTop = function () {
 
 		var pxShow = 500,         // height on which the button will show
@@ -399,8 +399,8 @@
 
 
 
-  /* Initialize
-	* ------------------------------------------------------ */
+	/* Initialize
+	  * ------------------------------------------------------ */
 	(function ssInit() {
 
 		ssPreloader();
@@ -454,15 +454,14 @@ function showSlides(n) {
 }
 // ------------------------Model Start----------------------------//
 // Get the modal //
-// function Event(src, caption, eventLink, description, date) { //TODO: It will be used when we have many events
+// function Event(src, caption, eventLink, description, date) { // TODO: It will be used when we have many events
 // 	this.src = src;
 // 	this.caption = caption;
 // 	this.eventLink = eventLink;
 // 	this.description = description;
 // 	this.date = date;
 // }
-// var event1 = new Event("images/node_school_event1.jpg","NodeSchool Karachi - The Chapter Begins","https://web.facebook.com/events/541384019573592/","","Saturday, February 17 at 2 PM - 4 PM");
-// var event2 = new Event("images/node_school_event2.jpg","Meetup #2 - REST APIs Workshop","https://web.facebook.com/events/162325484581405/","","Saturday, April 7 at 3 PM - 6 PM");
+
 var modal = document.getElementById('myModal');
 
 // Get the image and insert it inside the modal - use its "alt" text as a caption
@@ -473,20 +472,20 @@ var eventDescription = document.getElementById("event-description");
 var eventLink = document.getElementById("event-link");
 var eventDate = document.getElementById("event-date");
 var body = document.getElementsByTagName("BODY")[0];
-function openModel(src,caption, link, event_Date){
-    modal.style.display = "block";
-    modalImg.src = src;
-		captionText.innerHTML = caption;
-		body.style.overflow = "hidden";
-		eventLink.href = link;
-		eventDate.innerHTML = event_Date;
+function openModel(src, caption, link, event_Date) {
+	modal.style.display = "block";
+	modalImg.src = src;
+	captionText.innerHTML = caption;
+	body.style.overflow = "hidden";
+	eventLink.href = link;
+	eventDate.innerHTML = event_Date;
 }
 
 // Get the <span> element that closes the modal
 var span = document.getElementsByClassName("close")[0];
 
 // When the user clicks on <span> (x), close the modal
-span.onclick = function() { 
-		modal.style.display = "none";
-		body.style.overflow = "scroll";
+span.onclick = function () {
+	modal.style.display = "none";
+	body.style.overflow = "scroll";
 }

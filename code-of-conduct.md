@@ -1,12 +1,12 @@
 # Code of Conduct
 
-We, the organizers of **Nodeschool Karachi**, are dedicated to providing a
+We, the organizers of **LecceTech Community**, are dedicated to providing a
 harassment-free community for everyone, regardless of sex, gender identity or
 expression, sexual orientation, disability, physical appearance, age, body
 size, race, nationality, or religious beliefs. We do not tolerate harassment of
 community members in any form. Participants violating these rules may be
 sanctioned or expelled from the community at the discretion of the organizers
-of **Nodeschool Karachi**.
+of **LecceTech Community**.
 
 Harassment includes offensive verbal or written comments related to sex, gender
 identity or expression, sexual orientation, disability, physical appearance,
@@ -14,24 +14,26 @@ age, body size, race, nationality, or religious beliefs, deliberate
 intimidation, threats, stalking, following, harassing photography or recording,
 sustained disruption of talks or other events, inappropriate physical contact,
 and unwelcome sexual attention. Sexual language and imagery is not appropriate
-for any events at **Nodeschool Karachi** meetups or in any related
+for any events at **LecceTech Community** meetups or in any related
 communication channels. Community members asked to stop any harassing behavior
 are expected to comply immediately. Sponsors and presenters are also subject to
 the anti-harassment policy.
 
 If a community member engages in harassing behavior, the organizers of
-**Nodeschool Karachi** may take any action they deem appropriate, including
+**LecceTech Community** may take any action they deem appropriate, including
 warning the offender or expulsion from the community. If you are being
 harassed, notice that someone else is being harassed, or have any concerns,
 please contact an organizer immediately.
 
-### **Nodeschool Karachi**
+### **LecceTech Community**
 
 * Organizers: 
-  * **Ahsan Ayaz [@ahsan_ayz](https://twitter.com/ahsan_ayz)**
-* Website: [https://github.com/nodeschool/karachi](https://github.com/nodeschool/karachi)
-* Facebook: **[@nskarachi](https://web.facebook.com/nskarachi/)**
-* Gitter: [https://gitter.im/nodeschool/karachi](https://gitter.im/nodeschool/karachi)
+  * **Narain Sagar [@narainsagar](https://twitter.com/narainsagar)**
+  * **Giuseppe Silletti [@peppesilletti](https://github.com/peppesilletti)**
+* Website: [https://github.com/leccetech/community](https://github.com/leccetech/community)
+* Facebook Group: **[@leccetechcommunity](https://facebook.com/groups/leccetechcommunity/)**
+* Facebook Page: **[@leccetechcommunity](https://facebook.com/leccetechcommunity/)**
+* Discord: [https://discord.gg/aTQkMyW](https://discord.gg/aTQkMyW)
 
 **If you have questions or feedback about this Code of Conduct please contact
 one of the organizers.**

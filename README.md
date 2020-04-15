@@ -1,35 +1,36 @@
-# NodeSchool Karachi [![Join the chat at https://gitter.im/nodeschool/karachi](https://badges.gitter.im/nodeschool/karachi.svg)](https://gitter.im/nodeschool/karachi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+# LecceTech Community [![Join the chat at https://discord.gg/aTQkMyW](/discord.svg)](https://discord.gg/aTQkMyW?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-**We will be having links related to our meetup/events here in the [events](https://github.com/nodeschool/karachi/events) folder in this repo**
+**We will be having links related to our meetup/events here in the [events](https://github.com/leccetech/community/events) folder in this repo**
 
-NodeSchool is a series of open source workshops that teach web
-software skills. Individuals are encouraged to do the
-[workshoppers](http://nodeschool.io/) on their own or at one of the
-NodeSchool events around the world. The workshopper tutorials are used
-as the course curriculum, while mentors are here to help attendees
-work through challenges.
+LecceTech Community is a non-profit tech community dedicated to promote technology, organise series of open-source tech events/meetups that teach
+software skills and help people learn the latest Technologies. We are based in [Lecce, Italy](https://en.wikipedia.org/wiki/Lecce). We help people
+of all skill levels–from beginners to experts–discover what's possible. 
 
-* Website: [https://nodeschool.io/karachi/](https://nodeschool.io/karachi/)
-* Facebook: **[@nskarachi](https://web.facebook.com/nskarachi/)**
-* Gitter: [https://gitter.im/nodeschool/karachi](https://gitter.im/nodeschool/karachi)
+The aim is to introduce LecceTech Community, have a meetup to network with professionals. Teach & learn and ultimately be-a-part.
+So; Bring yourself, your laptop, and the desire to learn and network at our next meetup!
+
+* Website: [https://leccetech.github.io](https://leccetech.github.io)
+* Facebook Page: **[@leccetechcommunity](https://facebook.com/leccetechcommunity/)**
+* Facebook Group: **[@leccetechcommunity](https://facebook.com/groups/leccetechcommunity/)**
+* Discord: [https://discord.gg/aTQkMyW](https://discord.gg/aTQkMyW)
 
 ## Want to attend?
 
-Keep your self up to date with our [Facebook](https://web.facebook.com/nskarachi/) page for event updates.
+Keep your self up to date with our [Facebook](https://facebook.com/leccetechcommunity/) page for event updates.
 
 ### Want to mentor or help organize?
 
 If you are interested in mentoring, please make a
-[Pull Request](https://github.com/nodeschool/karachi/pulls) to add
-yourself to this list. We also ask you to read over [Event Mentor Best Practices](https://github.com/nodeschool/organizers/wiki/Event-Mentor-Best-Practices)
-on what it's like being a mentor prior to signing up. Make sure to put some links of your past work!
+[Pull Request](https://github.com/leccetech/community/pulls) to add
+yourself to this list. We also ask you to read over some of [Event Mentor Best Practices By NodeSchool](https://github.com/nodeschool/organizers/wiki/Event-Mentor-Best-Practices)
+on what it's like being a mentor prior to send your PR. Make sure to put some bio and links of your past work!
 
-- [@ahsanayaz](https://github.com/ahsanayaz)
-- [@smkamranqadri](https://github.com/smkamranqadri)
+- [@narainsagar](https://github.com/narainsagar)
+- [@peppesilletti](https://github.com/peppesilletti)
 
-If you've come to a few NodeSchool events, we encourage you to mentor! :tada:
+If you've come to a few LecceTech Community events, we encourage you to be a mentor! :tada:
 
 ### Code of Conduct
 
-- [Code of Conduct for Nodeschool Karachi](code-of-conduct.md)
+- [Code of Conduct for LecceTech Community](code-of-conduct.md)
 - [No photography without an individual's permission](https://adainitiative.org/2013/07/another-way-to-attract-women-to-conferences-photography-policies/)
