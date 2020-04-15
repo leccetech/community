@@ -30,7 +30,7 @@ please contact an organizer immediately.
 * Organizers: 
   * **Narain Sagar [@narainsagar](https://twitter.com/narainsagar)**
   * **Giuseppe Silletti [@peppesilletti](https://github.com/peppesilletti)**
-* Website: [https://github.com/leccetech/community](https://github.com/leccetech/community)
+* Website: [https://leccetech.github.io](https://leccetech.github.io)
 * Facebook Group: **[@leccetechcommunity](https://facebook.com/groups/leccetechcommunity/)**
 * Facebook Page: **[@leccetechcommunity](https://facebook.com/leccetechcommunity/)**
 * Discord: [https://discord.gg/aTQkMyW](https://discord.gg/aTQkMyW)

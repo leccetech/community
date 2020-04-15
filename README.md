@@ -1,6 +1,6 @@
-# LecceTech Community [![Join the chat at https://discord.gg/aTQkMyW](/discord.svg)](https://discord.gg/aTQkMyW?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+# LecceTech Community [![Join the chat at https://discord.gg/aTQkMyW](./discord.svg)](https://discord.gg/aTQkMyW)
 
-**We will be having links related to our meetup/events here in the [events](https://github.com/leccetech/community/events) folder in this repo**
+**We will be having links related to our meetups/events here in the [events](https://github.com/leccetech/meetups) folder in this repo**
 
 LecceTech Community is a non-profit tech community dedicated to promote technology, organise series of open-source tech events/meetups that teach
 software skills and help people learn the latest Technologies. We are based in [Lecce, Italy](https://en.wikipedia.org/wiki/Lecce). We help people
@@ -21,7 +21,7 @@ Keep your self up to date with our [Facebook](https://facebook.com/leccetechcomm
 ### Want to mentor or help organize?
 
 If you are interested in mentoring, please make a
-[Pull Request](https://github.com/leccetech/community/pulls) to add
+[Pull Request](https://github.com/leccetech/leccetech.github.io/pulls) to add
 yourself to this list. We also ask you to read over some of [Event Mentor Best Practices By NodeSchool](https://github.com/nodeschool/organizers/wiki/Event-Mentor-Best-Practices)
 on what it's like being a mentor prior to send your PR. Make sure to put some bio and links of your past work!
 
