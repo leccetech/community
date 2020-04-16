@@ -1,8 +1,8 @@
 # LecceTech Community [![Join the chat at https://discord.gg/aTQkMyW](./discord.svg)](https://discord.gg/aTQkMyW)
 
-**We will be having links related to our meetups/events here in the [events](https://github.com/leccetech/meetups) folder in this repo**
+**We will be having links related to our meetups/events here in the [meetups](https://github.com/leccetech/meetups) folder in this repo**
 
-LecceTech Community is a non-profit tech community dedicated to promote technology, organise series of open-source tech events/meetups that teach
+LecceTech Community is a non-profit and free-for-all tech community dedicated to promote technology, organise series of open-source tech events/meetups that teach
 software skills and help people learn the latest Technologies. We are based in [Lecce, Italy](https://en.wikipedia.org/wiki/Lecce). We help people
 of all skill levels–from beginners to experts–discover what's possible. 
 
@@ -18,17 +18,19 @@ So; Bring yourself, your laptop, and the desire to learn and network at our next
 
 Keep your self up to date with our [Facebook](https://facebook.com/leccetechcommunity/) page for event updates.
 
-### Want to mentor or help organize?
+### Want to volunteer or help organize?
 
-If you are interested in mentoring, please make a
+If you are interested in volunteering, please make a
 [Pull Request](https://github.com/leccetech/leccetech.github.io/pulls) to add
-yourself to this list. We also ask you to read over some of [Event Mentor Best Practices By NodeSchool](https://github.com/nodeschool/organizers/wiki/Event-Mentor-Best-Practices)
-on what it's like being a mentor prior to send your PR. Make sure to put some bio and links of your past work!
+yourself to this list. Make sure to put some bio and links of your past work in the PR!
+
+### Organizers
 
 - [@narainsagar](https://github.com/narainsagar)
 - [@peppesilletti](https://github.com/peppesilletti)
+- [@ziaboby](https://github.com/ziaboby)
 
-If you've come to a few LecceTech Community events, we encourage you to be a mentor! :tada:
+If you've come to a few LecceTech Community events, we encourage you to be a volunteer! :tada:
 
 ### Code of Conduct
 
